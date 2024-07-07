@@ -11,6 +11,7 @@ Next step is to activate venv:
 ```
 .ven\Scripts\activate
 ```
+
  Below are the commands to create branch and switch to that branch
  ```
  git branch dev
@@ -31,3 +32,5 @@ Next step is to activate venv:
  ```
  git checkout -b dev
  ```
+
+
